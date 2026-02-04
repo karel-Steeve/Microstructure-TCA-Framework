@@ -1,0 +1,22 @@
+# Python - Fichiers de cache compilés
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Dossiers d'environnement virtuel (si tu en utilises un)
+venv/
+env/
+.env
+
+# Configuration des éditeurs (Cursor, VS Code)
+.vscode/
+.cursor/
+
+# Fichiers système (Mac/Windows)
+.DS_Store
+Thumbs.db
+
+# Fichiers de données volumineux ou temporaires (optionnel)
+*.csv
+*.xlsx
